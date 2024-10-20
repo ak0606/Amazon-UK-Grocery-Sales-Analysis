@@ -1,2 +1,1 @@
-# Amazon-UK-Grocery-Sales-Analysis
-**Objective:**
+# Amazon UK Grocery Sales Analysis PowerBi Dashboard
