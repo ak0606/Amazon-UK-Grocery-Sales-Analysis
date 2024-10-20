@@ -1,1 +1,3 @@
 # Amazon UK Grocery Sales Analysis PowerBi Dashboard
+## Introduction
+This project analyzes the performance of products in the Amazon UK Grocery category using an interactive, multi-page Power BI dashboard. It provides a comprehensive view of key business metrics such as sales, revenue, pricing trends, and product performance across various categories. By leveraging rich visualizations, the dashboard empowers stakeholders to uncover meaningful insights and make informed decisions. Whether optimizing inventory, refining pricing strategies, or evaluating product success, this tool equips decision-makers with the data needed to drive growth and efficiency in a competitive marketplace.
