@@ -30,3 +30,5 @@ This page provides an in-depth analysis of pricing dynamics and customer engagem
 
 With a combination of KPI cards and interactive visualizations, this dashboard enables stakeholders to make informed pricing decisions, refine customer engagement strategies, and ultimately enhance product positioning in the market.
 
+![Alt text](./Dashboard_images/Price_Customer_Engagement.png)
+
