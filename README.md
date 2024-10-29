@@ -6,7 +6,9 @@ The dataset is publicly available on Kaggle, providing an extensive overview of 
 ## Data Preprocessing
 For this dashboard project, data preprocessing was performed in Python to ensure clean, reliable data. This included handling null values, standardizing brand and category entries, and using NLP techniques like fuzzy matching with FuzzyWuzzy to correct brand name inconsistencies. You can access the Python Jupyter Notebook file used for data preprocessing by [clicking here](./Data_Preprocessing).
 
-(Make sure to replace path_to_your_notebook.ipynb with the actual path to your notebook in the repository).
+## Overview of Dashboard Features
+This multi-page dashboard provides an in-depth analysis of key metrics related to the Amazon UK Grocery category. Below are the summaries for each dashboard page:
+
 ### Page 1: Sales and Revenue Overview
 This page serves as a high-level overview of Amazon UK Grocery products, highlighting essential KPIs such as total sales, total revenue, and top-performing categories. It provides clear answers to key business questions, empowering users to make data-driven decisions:
 
