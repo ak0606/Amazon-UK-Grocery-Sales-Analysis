@@ -8,7 +8,7 @@ The dataset is publicly available on Kaggle, providing an extensive overview of 
 ### Page 1: Sales and Revenue Overview
 This page serves as a high-level overview of Amazon UK Grocery products, highlighting essential KPIs such as total sales, total revenue, and top-performing categories. It provides clear answers to key business questions, empowering users to make data-driven decisions:
 
--Which product categories drive the highest revenue?
+- Which product categories drive the highest revenue?
 -How do specific brands perform within these categories?
 -What trends emerge across different price ranges?
 -Which brands and products consistently receive high ratings and positive reviews?
