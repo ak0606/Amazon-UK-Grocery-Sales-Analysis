@@ -13,4 +13,4 @@ This page serves as the high-level overview of the Amazon UK Grocery products, s
 - What are the sales trends across different price ranges?
 - How do product ratings influence sales?
   
-![Alt text](./Dashboard_images/Page1_Overview.png)
+![Alt text](./Dashboard_images/Overview.png)
