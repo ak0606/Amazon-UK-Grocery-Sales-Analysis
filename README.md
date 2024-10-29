@@ -21,3 +21,12 @@ This overview allows stakeholders to quickly gauge product and brand performance
 
   
 ![Alt text](./Dashboard_images/Overview.png)
+
+### Page 2: Price and Customer Engagement Analysis
+This page provides an in-depth analysis of pricing dynamics and customer engagement for Amazon UK Grocery products. By examining the impact of price on sales and customer sentiment, it answers critical questions to guide pricing strategies and customer-focused decisions:
+- How do different price points influence sales and overall revenue?
+- What is the relationship between product pricing and customer engagement?
+- How does customer feedback vary across price tiers?
+
+With a combination of KPI cards and interactive visualizations, this dashboard enables stakeholders to make informed pricing decisions, refine customer engagement strategies, and ultimately enhance product positioning in the market.
+
