@@ -34,3 +34,5 @@ With a combination of KPI cards and interactive visualizations, this dashboard e
 
 ---
 **Note**: This dataset offers extensive potential for further analysis, and I am actively exploring additional ways to expand the scope of this Power BI dashboard. As I continue to uncover new insights, the dashboard will be updated to provide even more comprehensive views of Amazon UK Grocery product performance and trends.
+
+You can access the Power BI file [here](./Dashboard_files).
